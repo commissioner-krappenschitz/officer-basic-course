@@ -6,3 +6,4 @@
   * [Use of Force](lnppd-officer-course/use-of-force.md)
   * [Emergency Driving 101](lnppd-officer-course/emergency-driving-101/README.md)
     * [Clearing Intersections](lnppd-officer-course/emergency-driving-101/clearing-intersections.md)
+    * [Introduction to Pursuits](lnppd-officer-course/emergency-driving-101/introduction-to-pursuits.md)
