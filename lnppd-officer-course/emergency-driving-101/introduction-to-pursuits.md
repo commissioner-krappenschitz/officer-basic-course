@@ -33,9 +33,23 @@ As a general rule of thumb, there should not be more than 4 units on a pursuit. 
 
 #### Refer to this
 
-* [Vehicle Pursuit Policy](https://www.google.com/url?q=https://sadrp-sahp.gitbook.io/sahp-or-vehicular-pusuit-policy\&sa=D\&source=editors\&ust=1739115921165186\&usg=AOvVaw2W-j4DHqprpd_hXgAmWyeg)
+* [Vehicle Pursuit Policy](https://lnp-rp.gitbook.io/lnppd-vehicle-pursuit-policy/)​
 
-​
+***
+
+## What can I do to end a pursuit?
+
+Ending a pursuit can be done in many different ways, having many different outcomes. Ending a pursuit can be crucial to ensure safe custody of the individual and in regards to public safety. If we look further into this ending a pursuit can be considered dangerous and at worse end up becoming lethal up until some extent.
+
+* Distancing, (this can calm the fleeing suspect) (AIR can keep eyes on)
+* Precision Immobilization Technique (PIT)
+* Stinger, Spike strips.
+* Choke points.
+* Grappler (TBA)
+
+As a LNPPD Officer, you should have enough knowledge to consider if ending the pursuit is lethal or deadly towards the fleeing suspect.
+
+
 
 ​
 
