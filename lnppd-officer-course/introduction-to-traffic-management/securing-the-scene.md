@@ -9,7 +9,7 @@
 Do not forget to call for (c) Fire/EMS​
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Securing the scene.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Securing the scene.</p></figcaption></figure>
 
 * Note the angle of the vehicles- this ensures maximum protection for the officers and responding medical units involved in the scenario
 * Always angle your vehicle to deflect traffic in the desired direction – do not deflect traffic into your own scene

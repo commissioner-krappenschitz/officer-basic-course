@@ -28,3 +28,12 @@
   * [Performing Code 5 Stops](lnppd-officer-course/felony-traffic-stops/performing-code-5-stops.md)
   * [Clearing the Vehicle](lnppd-officer-course/felony-traffic-stops/clearing-the-vehicle.md)
 * [Making an Arrest](lnppd-officer-course/making-an-arrest.md)
+* [Jail Time & Writing a Report](lnppd-officer-course/jail-time-and-writing-a-report.md)
+* [Firearms & Small Unit Tactics](lnppd-officer-course/firearms-and-small-unit-tactics/README.md)
+  * [Weapon Loadout](lnppd-officer-course/firearms-and-small-unit-tactics/weapon-loadout.md)
+  * [Rules of Weapons Handling](lnppd-officer-course/firearms-and-small-unit-tactics/rules-of-weapons-handling.md)
+  * [Room Clearing/Entry](lnppd-officer-course/firearms-and-small-unit-tactics/room-clearing-entry.md)
+
+***
+
+* [Conclusion](conclusion.md)
