@@ -48,11 +48,3 @@ Ending a pursuit can be done in many different ways, having many different outco
 * Grappler (TBA)
 
 As a LNPPD Officer, you should have enough knowledge to consider if ending the pursuit is lethal or deadly towards the fleeing suspect.
-
-
-
-​
-
-\
-
-
